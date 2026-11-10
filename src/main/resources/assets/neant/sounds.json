@@ -1,0 +1,57 @@
+{
+  "rift_open": {
+    "sounds": [
+      "neant:rift_open"
+    ]
+  },
+  "boom": {
+    "sounds": [
+      "neant:boom"
+    ]
+  },
+  "slash": {
+    "sounds": [
+      "neant:slash"
+    ]
+  },
+  "drill": {
+    "sounds": [
+      "neant:drill"
+    ]
+  },
+  "void_hole": {
+    "sounds": [
+      "neant:void_hole"
+    ]
+  },
+  "forge_charge": {
+    "sounds": [
+      "neant:forge_charge"
+    ]
+  },
+  "forge_done": {
+    "sounds": [
+      "neant:forge_done"
+    ]
+  },
+  "whirl": {
+    "sounds": [
+      "neant:whirl"
+    ]
+  },
+  "flame": {
+    "sounds": [
+      "neant:flame"
+    ]
+  },
+  "pulse": {
+    "sounds": [
+      "neant:pulse"
+    ]
+  },
+  "blink": {
+    "sounds": [
+      "neant:blink"
+    ]
+  }
+}

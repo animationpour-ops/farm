@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "neant:block/void_forge_top",
+    "side": "neant:block/void_forge_side",
+    "bottom": "neant:block/void_forge_bottom",
+    "particle": "neant:block/void_forge_side"
+  }
+}

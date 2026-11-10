@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "neant:block/void_forge"
+    }
+  }
+}
